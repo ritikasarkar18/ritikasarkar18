@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 # 🤔 I’m looking for help with ...
 - Machine Learning
 - Backend Development
+# 🔭 I've contributed/ing in ...
+- http://www.dreadnoughtrobotics.co.in/
+- https://vit-voice-it.netlify.app/
 
 # 📫 How to reach me: ...
 - LinkedIn - https://www.linkedin.com/in/ritika-sarkar-9517b9190/
