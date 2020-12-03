@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Backend Development
 # 🔭 I've contributed in ...
 - http://www.dreadnoughtrobotics.co.in/
-- https://vit-voice-it.netlify.app/ (current)
+- https://fyi-vitc.web.app/#/ (current)
 
 # 📫 How to reach me: ...
 - LinkedIn - https://www.linkedin.com/in/ritika-sarkar-9517b9190/
