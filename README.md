@@ -11,12 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 # 🌱 I’m currently learning ...
+- Machine Learning
+- AI
 - Web development
 - Competitive Coding
 # 👯 I’m looking to collaborate on ...
 - Web development
+- Machine Learning projects
 # 🤔 I’m looking for help with ...
-- Machine Learning
 - Backend Development
 # 🔭 I've contributed in ...
 - http://www.dreadnoughtrobotics.co.in/
@@ -24,7 +26,6 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me: ...
 - LinkedIn - https://www.linkedin.com/in/ritika-sarkar-9517b9190/
-- Facebook - https://www.facebook.com/ritika.sarkar.180072/
 - Hackerrank - https://www.hackerrank.com/ritikasarkar438?hr_r=1
 
 ![ritikasarkar18's github stats](https://github-readme-stats.vercel.app/api?username=ritikasarkar18&count_private=true)
