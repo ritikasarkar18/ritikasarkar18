@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 
 -->
 # 🌱 I’m currently learning ...
-- Deep Learning
+- NLP
 - AI
 - Backend Web development
 - Competitive Coding
 
 # 👯 I’m looking to collaborate on ...
-- Machine Learning projects
+- Deep Learning and Machine Learning projects
+- Computer Vision projects
 - Research projects
 
 # 🔭 I've contributed in ...
